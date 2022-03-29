@@ -1,2 +1,2 @@
 # Webscraping
-Repo for soem webscraping projects
+Repo for some webscraping projects
